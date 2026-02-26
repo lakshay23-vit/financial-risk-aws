@@ -36,6 +36,5 @@ for name in buckets:
     )
 # here i am uploading file insid my raw data bucket
 
-client.upload_file('la_ch_ma.pdf', 'raw-finance-data-20262000', 'hell.pdf')
-
+client.upload_file('american_bankruptcy.csv.zip', 'raw-finance-data-20262000', 'hell.csv')
 
