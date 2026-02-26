@@ -1,5 +1,5 @@
-# financial-risk-aws
-# My First AWS Automation Project
+#Cloud-Based Bankruptcy Prediction System
+
 
 ## What is this?
 I wrote a Python script using Boto3 to automatically set up my AWS storage. Instead of clicking many buttons in the AWS website, my code does everything in one second.
